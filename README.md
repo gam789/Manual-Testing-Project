@@ -1,5 +1,5 @@
-# Manual-Testing-Project
-Manual testing project done as part of the software testing internship done at Luminar Technolab.
+# Sprig Store Web Application Manual Project
+Manual testing project was done as part of the software testing internship done at Luminar Technolab.
 
 This repository contains the documentation and artifacts for a manual testing project conducted on various modules of a software application. The primary focus of this testing effort encompassed modules such as "Create an Account," "Login," "Home," "Add to Cart," and the "Checkout" page.
 
